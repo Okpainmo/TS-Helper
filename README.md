@@ -1,4 +1,4 @@
-# Ts Helper
+# Ts Helper(project in progress)
 An awesome opensource project to help make typescript easier to learn, use and debug. 
 
 It's all opensource, join in, and contribute. Simply begin by creating a Github issue of what you wish to contribute.
